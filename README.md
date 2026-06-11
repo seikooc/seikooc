@@ -1,4 +1,4 @@
-# Olá Mundo! Me chamo **th4natos**!
+# Olá Mundo, me chamo **th4natos**!
 
 ![gif de apresentação](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJyazRmODl5Mmx4cHZ5OGJoczQ5cjA4dnNhaWpxcGZ1ZmYwMWwxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjJMYGHJEBmlq/giphy.gif)
 
