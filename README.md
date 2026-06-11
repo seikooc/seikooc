@@ -26,7 +26,7 @@ Explorando por onde quero começar e aceitando dicas.
 ## 📊 Meu GitHub em números
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=siekooc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seikooc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
